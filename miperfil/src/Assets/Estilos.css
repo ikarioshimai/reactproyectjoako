@@ -1,0 +1,41 @@
+.container-padre-app {
+  display: flex;
+  width: 100%;
+  height: 1000px;
+  padding-top: 80px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 80px;
+  background-color: white;
+  /*margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding: 10px;*/ }
+
+.container-footer-padre {
+  margin-top: 50px;
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: red;
+  align-items: flex-end;
+  justify-content: space-between; }
+
+.caja1 {
+  display: flex;
+  width: 10%;
+  height: 40px;
+  background-color: blue; }
+
+.ContainerPadreLayout {
+  display: flex;
+  width: 100%;
+  height: 800px;
+  margin-top: 15px;
+  background-color: black; }
